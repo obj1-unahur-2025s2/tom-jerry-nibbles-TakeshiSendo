@@ -23,8 +23,6 @@ object tom {
         self.comer(unRaton)
     }
 
-//alta data está tirando el pibe eh, full factoriales
-//si le llega a mandar foto bija a eli, te pego personalmente.
 }
 
 object jerry {
